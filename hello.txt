@@ -1,0 +1,2 @@
+Привет Git!
+Hello Git!
